@@ -7,4 +7,4 @@ def gcdeuclid(x,y):
 	if (x%y)==0:
 		return y
 	else:
-		return gcd(y,rem)
+		return gcdeuclid(y,rem)
