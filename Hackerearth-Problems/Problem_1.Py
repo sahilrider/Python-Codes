@@ -1,3 +1,5 @@
+#https://www.hackerearth.com/practice/basic-programming/implementation/basics-of-implementation/practice-problems/algorithm/jarvis-and-seven-segments-1/
+
 def led(n):
     if n==1:
         return 2
