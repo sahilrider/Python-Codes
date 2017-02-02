@@ -9,7 +9,9 @@ def most_freq(string):
     t=[]                    #empty list to map dict
     for letter,freq in h.items():
         t.append((freq,letter))         #(freq,letter) is passed as tuple
-
+        
+    ''' t is a list of 14 tuples(int,str) in this example'''
+    
     t.sort(reverse=True)                #sorting list in desc order by freq
 
     res=[]                          #list to store only letters
