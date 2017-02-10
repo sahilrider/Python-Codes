@@ -7,4 +7,6 @@ It will also help other begineers as codes complexity will increase from basics 
 <b>Program testing can be used to show the presence of bugs, but never to show
 their absence!
 <br>
+“The question of whether computers can think is like the question of whether submarines can swim.” 
+<br>
 — Edsger W. Dijkstra</b>
