@@ -7,7 +7,7 @@ It will also help other begineers as codes complexity will increase from basics 
 <ul>
 <li>Here is only python specific data types like lists,dict,tuples...</li>
 <li>I have also written codes for Graphs and some other algorithms in Python3 which is in another repo.</li>
-<t>[DS_ALGO](https://github.com/sahilrider/DS_ALGO)
+<t>[DS_ALGO](https://github.com/sahilrider/DS_ALGO)</t>
 
 
 <b>''Program testing can be used to show the presence of bugs, but never to show
