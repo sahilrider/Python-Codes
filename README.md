@@ -25,6 +25,25 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Circle](https://github.com/sahilrider/Python-Codes/blob/master/Class-Example/Circle.Py)
   * [Kangaroo](https://github.com/sahilrider/Python-Codes/blob/master/Class-Example/Kangaroo.Py)
   * [Time](https://github.com/sahilrider/Python-Codes/blob/master/Class-Example/Time.Py)
+* Data Structures
+  * [Linked List](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/LinkedList.py)
+  * [Find Middle Elem in Linked List](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/MiddleElemList.py)
+  * [Find Nth node from End](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/NthNodeFromEnd.py)
+  * [Reverse List](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/reverseList.py)
+  * [Floyd_Cycle_Detection_Algorithm](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/Floyd_Cycle_Detection_Algorithm.py)
+  
+  * [Stack](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/Stack.py)
+  * [Get Min from Stack](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/getMin_Stack.py)
+  
+  * [Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/BinaryTree.py)
+  * [Find MaxVal in Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/FindMax_BT.py)
+  * [Mirror of Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/MirrorOfBinaryTree.py)
+  * [Size of Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/SizeOfBinaryTree.py)
+  * [Search Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/search_BT.py)
+  * [Binary Search Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/BST.py)
+  
+  
+  
 * Dictionary
   * [Fibonacci Memo](https://github.com/sahilrider/Python-Codes/blob/master/Dictionary/Fibonacci_Memo.Py)
   * [Histogram](https://github.com/sahilrider/Python-Codes/blob/master/Dictionary/Histogram.Py)
