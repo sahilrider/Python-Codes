@@ -7,8 +7,9 @@ It will also help other begineers as codes complexity will increase from basics 
 <ul>
 <li>Here is only python specific data types like lists,dict,tuples...</li>
 <li>I have also written codes for Graphs and some other algorithms in Python3 which is in another repo.</li>
-<t>[DS_ALGO](https://github.com/sahilrider/DS_ALGO)</t>
-</ul>
+ </ul>
+[DS_ALGO](https://github.com/sahilrider/DS_ALGO)</t>
+
 <br>
 
 ## Table of contents
