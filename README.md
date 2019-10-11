@@ -54,7 +54,8 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Uses Only(Prints word containing only letters in string)](https://github.com/sahilrider/Python-Codes/blob/master/File/Uses_Only.Py)
 * Interviewbit
   * [Arrays](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Array)
-  * [Math](ttps://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Math)
+  * [Math](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Math)
+  * [Bit Manipulation](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Bit-Manipulation)
 * HackerEarth Problems
   * [Addition ain't simple](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Addition-ain't-simple.Py)
   * [Chandu and Consecutive Letters](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Chandu%20and%20Consecutive%20Letters.Py)
