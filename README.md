@@ -32,19 +32,14 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Find Nth node from End](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/NthNodeFromEnd.py)
   * [Reverse List](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/reverseList.py)
   * [Floyd_Cycle_Detection_Algorithm](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/Floyd_Cycle_Detection_Algorithm.py)
-  
   * [Stack](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/Stack.py)
   * [Get Min from Stack](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/getMin_Stack.py)
-  
   * [Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/BinaryTree.py)
   * [Find MaxVal in Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/FindMax_BT.py)
   * [Mirror of Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/MirrorOfBinaryTree.py)
   * [Size of Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/SizeOfBinaryTree.py)
   * [Search Binary Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/search_BT.py)
   * [Binary Search Tree](https://github.com/sahilrider/Python-Codes/blob/master/Data%20Structures/BST.py)
-  
-  
-  
 * Dictionary
   * [Fibonacci Memo](https://github.com/sahilrider/Python-Codes/blob/master/Dictionary/Fibonacci_Memo.Py)
   * [Histogram](https://github.com/sahilrider/Python-Codes/blob/master/Dictionary/Histogram.Py)
@@ -57,6 +52,8 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Print words without "e"](https://github.com/sahilrider/Python-Codes/blob/master/File/Print_words_without_e.Py)
   * [Uses All (Print word which uses all letters in string)](https://github.com/sahilrider/Python-Codes/blob/master/File/Uses_All.Py)
   * [Uses Only(Prints word containing only letters in string)](https://github.com/sahilrider/Python-Codes/blob/master/File/Uses_Only.Py)
+* Interviewbit
+  * [Arrays](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Array)
 * HackerEarth Problems
   * [Addition ain't simple](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Addition-ain't-simple.Py)
   * [Chandu and Consecutive Letters](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Chandu%20and%20Consecutive%20Letters.Py)
@@ -80,7 +77,7 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Factorial](https://github.com/sahilrider/Python-Codes/blob/master/Recurssion/Factorial.Py)
   * [GCD Euclid](https://github.com/sahilrider/Python-Codes/blob/master/Recurssion/GCD_Euclid.Py)
 * Sets
-  * [No idea (https://www.hackerrank.com/challenges/no-idea)](https://github.com/sahilrider/Python-Codes/blob/master/Sets/No-idea.Py)
+  * [No idea](https://www.hackerrank.com/challenges/no-idea)
 * String
   * [Anagram](https://github.com/sahilrider/Python-Codes/blob/master/String/Anagram.Py)
   * [Count Substring in a String](https://github.com/sahilrider/Python-Codes/blob/master/String/Count_String.Py)
