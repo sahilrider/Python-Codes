@@ -56,6 +56,7 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Arrays](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Array)
   * [Math](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Math)
   * [Bit Manipulation](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Bit-Manipulation)
+  * [Strings](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Strings)
 * HackerEarth Problems
   * [Addition ain't simple](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Addition-ain't-simple.Py)
   * [Chandu and Consecutive Letters](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Chandu%20and%20Consecutive%20Letters.Py)
