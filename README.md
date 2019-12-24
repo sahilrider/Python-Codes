@@ -53,10 +53,14 @@ It will also help other begineers as codes complexity will increase from basics 
   * [Uses All (Print word which uses all letters in string)](https://github.com/sahilrider/Python-Codes/blob/master/File/Uses_All.Py)
   * [Uses Only(Prints word containing only letters in string)](https://github.com/sahilrider/Python-Codes/blob/master/File/Uses_Only.Py)
 * Interviewbit
-  * [Arrays](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Array)
+  * [Arrays](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Arrays)
   * [Math](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Math)
-  * [Bit Manipulation](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Bit-Manipulation)
+  * [Binary Search](https://github.com/sahilrider/Python-Codes/tree/master/Interviewbit/BinarySearch)
+  * [Bit Manipulation](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/BitManipulation)
   * [Strings](https://github.com/sahilrider/Python-Codes/blob/master/Interviewbit/Strings)
+  * [Two Pointers](https://github.com/sahilrider/Python-Codes/tree/master/Interviewbit/TwoPointers)
+  * [Linked Lists](https://github.com/sahilrider/Python-Codes/tree/master/Interviewbit/LinkedLists)
+  * [Stacks and Queues](https://github.com/sahilrider/Python-Codes/tree/master/Interviewbit/StacksnQueues)
 * HackerEarth Problems
   * [Addition ain't simple](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Addition-ain't-simple.Py)
   * [Chandu and Consecutive Letters](https://github.com/sahilrider/Python-Codes/blob/master/Hackerearth-Problems/Chandu%20and%20Consecutive%20Letters.Py)
